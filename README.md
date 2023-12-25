@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 #### Skills
 - **Proficient:** Python
 - **Learning:** HTML, CSS, JavaScript
-- **Aspiring:** React
+- **Aspiring:** React, Node.js, PostgreSQL
 
 #### Get In Touch
 - ✉️ Email: [johnnyw8@uci.edu](mailto:johnnyw8@uci.edu)
