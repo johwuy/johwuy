@@ -12,23 +12,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Hello, I'm Johnny! 👋
 
-#### About Me
-- 🎓 Sophomore studying *Computer Science* at UCI
-- ⏭️ Looking forward to diving into *full-stack development* in the future
-- 🚀 Passionate about coding, problem-solving, and building meaningful projects
+I'm a software engineer and UC Irvine graduate interested in backend systems, distributed systems, databases, reliability, and observability.
 
-#### Skills
-- **Proficient:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=15px /> Python, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=15px /> HTML, 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=15px /> CSS, 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=15px /> TypeScript,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=15px /> React,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height=15px/> Express.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height=15px/> PostgreSQL
-- **Learning:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=15px/> C++
-- **Aspiring:** 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height=15px/> Docker,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height=15px/> Kubernetes,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height=15px/> AWS
-          
+Previously:
+- **HashiCorp** — Software Engineering Intern, working on backend and full-stack systems supporting a billing-platform migration.
+- **UC Irvine Student Center** — Web Developer, building and maintaining web experiences and internal tools for the Student Center.
 
-#### Get In Touch
-- ✉️ Email: [johnnyw8@uci.edu](mailto:johnnyw8@uci.edu)
+I enjoy working on ambiguous engineering problems, understanding how systems behave under load and failure, and building useful systems from end to end.
